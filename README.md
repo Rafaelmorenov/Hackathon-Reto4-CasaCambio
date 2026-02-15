@@ -1,3 +1,7 @@
+#Integrantes
+-Rafael Moreno
+- Cristian Gonzalez
+  
 # Reto 4: La Estafa de la Casa de Cambio
 
 ## Contexto del Problema
